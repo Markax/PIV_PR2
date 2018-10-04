@@ -1,1 +1,1 @@
-# PIV_PR2
+# Práctica 2 de Procesamiento de la información visual
